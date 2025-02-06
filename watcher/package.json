@@ -1,0 +1,12 @@
+{
+  "name": "auto-refresh-watcher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "auto-refresh-watcher": "./index.js"
+  },
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "ws": "^8.13.0"
+  }
+}
