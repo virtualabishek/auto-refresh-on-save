@@ -1,4 +1,4 @@
-# Universal Auto Refresh
+# Auto Refresh On Change
 
 Chrome Extension + File Watcher for automatic page reloads on file changes
 
